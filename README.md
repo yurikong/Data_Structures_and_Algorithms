@@ -1,2 +1,2 @@
 # Data_Structures_and_Algorithms
-CSULB CECS_328
+###### project descriptions are in pdf's
